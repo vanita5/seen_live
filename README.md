@@ -54,6 +54,7 @@
 
 ###### M
 
+* [Madball](http://www.last.fm/de/music/Madball)
 * [Marathonmann](http://www.last.fm/de/music/Marathonmann)
 * [Modestep](http://www.last.fm/de/music/Modestep)
 * [Monkey3](http://www.last.fm/de/music/Monkey3)
@@ -79,6 +80,7 @@
 * [Siriusmo](http://www.last.fm/de/music/Siriusmo) + [Modeselektor](http://www.last.fm/de/music/Modeselektor)
 * [Slipknot](http://www.last.fm/de/music/Slipknot)
 * [Spaceman Spiff](http://www.last.fm/de/music/Spaceman+Spiff)
+* [Stereo Dynamite](http://www.last.fm/de/search?q=stereo+dynamite)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
 
 ###### T
