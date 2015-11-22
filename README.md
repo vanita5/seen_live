@@ -8,6 +8,10 @@
 
 ### Seen live
 
+###### A
+
+* [Alec Empire](http://www.last.fm/de/music/Alec+Empire)
+
 ###### B
 
 * [Black Space Riders](http://www.last.fm/de/music/Black+Space+Riders)
