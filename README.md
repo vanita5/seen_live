@@ -21,12 +21,14 @@
 
 * [Bilderbuch](http://www.last.fm/de/music/Bilderbuch)
 * [Black Space Riders](http://www.last.fm/de/music/Black+Space+Riders)
+* [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
 
 ###### C
 
 * [Callejon](http://www.last.fm/de/music/Callejon)
 * [Chelsea Deadbeat Combo](http://www.last.fm/de/music/Chelsea+Deadbeat+Combo)
 * [Chris Liebing](http://www.last.fm/de/music/Chris+Liebing)
+* [Clawerfield](http://www.last.fm/de/music/Clawerfield)
 
 ###### D
 
@@ -112,6 +114,7 @@
 ###### V
 
 * [Vale Tudo](http://www.last.fm/de/music/Vale+Tudo)
+* [Vitja](http://www.last.fm/de/music/vitja)
 
 ###### W
 
