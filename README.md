@@ -27,6 +27,7 @@
 ###### H
 
 * [Heaven Shall Burn](http://www.last.fm/de/music/Heaven+Shall+Burn)
+* [Hundreds](http://www.last.fm/de/music/Hundreds)
 
 ###### I
 
@@ -53,6 +54,7 @@
 ###### S
 
 * [Shadows of Defeat](http://www.last.fm/de/music/Shadows+of+Defeat)
+* [Spaceman Spiff](http://www.last.fm/de/music/Spaceman+Spiff)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
 
 ###### T
