@@ -14,6 +14,7 @@
 * [AKA AKA](http://www.last.fm/de/music/AKA+AKA)
 * [Alec Empire](http://www.last.fm/de/music/Alec+Empire)
 * [Alle Farben](http://www.last.fm/de/music/Alle+Farben)
+* [Antilopen Gang](http://www.last.fm/de/music/Antilopen+Gang)
 * [Atari Teenage Riot](http://www.last.fm/de/music/Atari+Teenage+Riot)
 * [Author &amp; Punisher](http://www.last.fm/de/music/Author+&+Punisher)
 
