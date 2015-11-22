@@ -11,6 +11,8 @@
 ###### A
 
 * [Alec Empire](http://www.last.fm/de/music/Alec+Empire)
+* [Atari Teenage Riot](http://www.last.fm/de/music/Atari+Teenage+Riot)
+* [Author &amp; Punisher](http://www.last.fm/de/music/Author+&+Punisher)
 
 ###### B
 
