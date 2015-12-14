@@ -34,6 +34,7 @@
 ###### D
 
 * [Deez Nuts](http://www.last.fm/de/music/Deez+Nuts)
+* [Desolace](http://www.last.fm/de/music/Desolace)
 
 ###### E
 
@@ -101,9 +102,11 @@
 * [Spaceman Spiff](http://www.last.fm/de/music/Spaceman+Spiff)
 * [Stereo Dynamite](http://www.last.fm/de/search?q=stereo+dynamite)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
+* [Swallow Your Pride](http://www.last.fm/de/music/Swallow+your+pride)
 
 ###### T
 
+* [Tentacle Attack](http://www.last.fm/de/music/Tentacle+Attack)
 * [Thalstroem](http://www.last.fm/de/music/Thalstroem)
 * [The Ghost Inside](http://www.last.fm/de/music/The+Ghost+Inside)
 * [The Intersphere](http://www.last.fm/de/music/The+Intersphere)
