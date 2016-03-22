@@ -19,6 +19,7 @@
 * [Any Given Day](http://www.last.fm/de/music/Any+Given+Day)
 * [Atari Teenage Riot](http://www.last.fm/de/music/Atari+Teenage+Riot)
 * [Author &amp; Punisher](http://www.last.fm/de/music/Author+&+Punisher)
+* [Aviator](http://www.last.fm/music/Aviator)
 
 ###### B
 
@@ -30,6 +31,7 @@
 ###### C
 
 * [Callejon](http://www.last.fm/de/music/Callejon) (x2)
+* [Cancel The Sky](http://www.last.fm/music/Cancel+The+Sky)
 * [Capture the Crown](http://www.last.fm/de/music/Capture+the+Crown)
 * [Chelsea Deadbeat Combo](http://www.last.fm/de/music/Chelsea+Deadbeat+Combo)
 * [Chris Liebing](http://www.last.fm/de/music/Chris+Liebing)
