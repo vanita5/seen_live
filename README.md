@@ -69,6 +69,7 @@
 
 * [Karotte](http://www.last.fm/de/music/Karotte)
 * [Klangkarussell](http://www.last.fm/de/music/Klangkarussell)
+* [Konny](http://www.last.fm/de/music/Konny)
 
 ###### L
 
@@ -95,6 +96,7 @@
 ###### P
 
 * [Parkway Drive](http://www.last.fm/de/music/Parkway+Drive)
+* [Per Capita](http://www.last.fm/de/music/Per+Capita)
 
 ###### R
 
@@ -136,6 +138,7 @@
 
 * [Wankelmut](http://www.last.fm/de/music/Wankelmut)
 * [While She Sleeps](http://www.last.fm/de/music/While+She+Sleeps)
+* [Wundabunta Straszenpunk](http://www.last.fm/de/music/Wundabunta+Straszenpunk)
 
 ### Festivals
 
