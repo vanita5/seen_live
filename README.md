@@ -15,18 +15,23 @@
 * [AKA AKA](http://www.last.fm/de/music/AKA+AKA)
 * [Alec Empire](http://www.last.fm/de/music/Alec+Empire)
 * [Alle Farben](http://www.last.fm/de/music/Alle+Farben)
+* [Amon Amarth](http://www.last.fm/de/music/Amon+Amarth)
 * [Antilopen Gang](http://www.last.fm/de/music/Antilopen+Gang)
 * [Any Given Day](http://www.last.fm/de/music/Any+Given+Day)
+* [Architects](http://www.last.fm/de/music/Architects)
 * [Atari Teenage Riot](http://www.last.fm/de/music/Atari+Teenage+Riot)
+* [August Burns Red](http://www.last.fm/de/music/August+Burns+Red)
 * [Author &amp; Punisher](http://www.last.fm/de/music/Author+&+Punisher)
 * [Aviator](http://www.last.fm/music/Aviator)
 
 ###### B
 
 * [Bilderbuch](http://www.last.fm/de/music/Bilderbuch)
+* [Billy Talent](http://www.last.fm/de/music/Billy+Talent)
 * [Black Space Riders](http://www.last.fm/de/music/Black+Space+Riders)
-* [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
 * [Break Down A Venue](http://www.last.fm/de/music/Break+Down+A+Venue)
+* [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
+* [Breaking Benjamin](http://www.last.fm/de/music/Breaking+Benjamin)
 
 ###### C
 
@@ -40,7 +45,9 @@
 ###### D
 
 * [Deez Nuts](http://www.last.fm/de/music/Deez+Nuts) (x2)
+* [Deftones](http://www.last.fm/de/music/Deftones)
 * [Desolace](http://www.last.fm/de/music/Desolace)
+* [Disturbed](http://www.last.fm/de/music/Disturbed)
 
 ###### E
 
@@ -53,11 +60,12 @@
 
 * [Feine Sahne Fischfilet](http://www.last.fm/de/music/Feine+Sahne+Fischfilet) (x2)
 * [Fish](http://www.last.fm/de/music/Deez+Nuts)
+* [Frittenbude](http://www.last.fm/de/music/Frittenbude)
 * [Fritz Kalkbrenner](http://www.last.fm/de/music/Fritz+Kalkbrenner)
 
 ###### H
 
-* [Heaven Shall Burn](http://www.last.fm/de/music/Heaven+Shall+Burn)
+* [Heaven Shall Burn](http://www.last.fm/de/music/Heaven+Shall+Burn) (x2)
 * [Hollywood Undead](http://www.last.fm/de/music/Hollywood+Undead)
 * [Hundreds](http://www.last.fm/de/music/Hundreds)
 
@@ -79,6 +87,7 @@
 ###### M
 
 * [Madball](http://www.last.fm/de/music/Madball)
+* [Major Lazer](http://www.last.fm/de/music/Major+Lazer)
 * [Marathonmann](http://www.last.fm/de/music/Marathonmann)
 * [Modestep](http://www.last.fm/de/music/Modestep)
 * [Monika Kruse](http://www.last.fm/de/music/Monika+Kruse)
@@ -93,8 +102,13 @@
 * [Netsky](http://www.last.fm/de/music/Netsky)
 * [Nico Pusch](http://www.last.fm/de/music/Nico+Pusch)
 
+###### O
+
+* [Of Mice &amp; Men](http://www.last.fm/de/music/Of+Mice+&+Men)
+
 ###### P
 
+* [Panic! At The Disco](http://www.last.fm/de/music/Panic!+at+the+Disco)
 * [Parkway Drive](http://www.last.fm/de/music/Parkway+Drive)
 * [Per Capita](http://www.last.fm/de/music/Per+Capita)
 
@@ -137,7 +151,8 @@
 ###### W
 
 * [Wankelmut](http://www.last.fm/de/music/Wankelmut)
-* [While She Sleeps](http://www.last.fm/de/music/While+She+Sleeps)
+* [We Came As Romans](http://www.last.fm/de/music/We+Came+As+Romans)
+* [While She Sleeps](http://www.last.fm/de/music/While+She+Sleeps) (x2)
 * [Wundabunta Straszenpunk](http://www.last.fm/de/music/Wundabunta+Straszenpunk)
 
 ### Festivals
@@ -148,3 +163,6 @@
 * Rock am Ring 2015
 * Echelon 2015
 * Knockdown 2015
+
+
+* Rock am Ring 2016
