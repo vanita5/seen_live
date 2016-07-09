@@ -125,6 +125,7 @@
 * [Siriusmo](http://www.last.fm/de/music/Siriusmo) + 
 [Modeselektor](http://www.last.fm/de/music/Modeselektor)
 * [Slipknot](http://www.last.fm/de/music/Slipknot)
+* [Sookee](http://www.last.fm/de/music/Sookee)
 * [Spaceman Spiff](http://www.last.fm/de/music/Spaceman+Spiff)
 * [Stereo Dynamite](http://www.last.fm/de/search?q=stereo+dynamite)
 * [Stick To Your Guns](http://www.last.fm/de/music/Stick+to+Your+Guns)
