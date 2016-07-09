@@ -127,6 +127,7 @@
 * [Slipknot](http://www.last.fm/de/music/Slipknot)
 * [Spaceman Spiff](http://www.last.fm/de/music/Spaceman+Spiff)
 * [Stereo Dynamite](http://www.last.fm/de/search?q=stereo+dynamite)
+* [Stick To Your Guns](http://www.last.fm/de/music/Stick+to+Your+Guns)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
 * [Swallow Your Pride](http://www.last.fm/de/music/Swallow+your+pride)
 
@@ -153,6 +154,7 @@
 * [Wankelmut](http://www.last.fm/de/music/Wankelmut)
 * [We Came As Romans](http://www.last.fm/de/music/We+Came+As+Romans)
 * [While She Sleeps](http://www.last.fm/de/music/While+She+Sleeps) (x2)
+* [WOLF DOWN](http://www.last.fm/de/music/Wolf+Down)
 * [Wundabunta Straszenpunk](http://www.last.fm/de/music/Wundabunta+Straszenpunk)
 
 ### Festivals
