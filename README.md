@@ -32,6 +32,7 @@
 * [Break Down A Venue](http://www.last.fm/de/music/Break+Down+A+Venue)
 * [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
 * [Breaking Benjamin](http://www.last.fm/de/music/Breaking+Benjamin)
+* [Broken Compass](https://brokencompassband.bandcamp.com/)
 
 ###### C
 
@@ -121,6 +122,7 @@
 ###### S
 
 * [Sascha Braemer](http://www.last.fm/de/music/Sascha+Braemer)
+* [Save Your Last Breath](http://www.last.fm/de/music/Save+Your+Last+Breath)
 * [Shadows of Defeat](http://www.last.fm/de/music/Shadows+of+Defeat)
 * [Siriusmo](http://www.last.fm/de/music/Siriusmo) + 
 [Modeselektor](http://www.last.fm/de/music/Modeselektor)
@@ -136,6 +138,7 @@
 
 * [Tentacle Attack](http://www.last.fm/de/music/Tentacle+Attack)
 * [Thalstroem](http://www.last.fm/de/music/Thalstroem)
+* [The Bojarski](https://thebojarski.bandcamp.com/)
 * [The Browning](http://www.last.fm/de/music/The+Browning)
 * [The Ghost Inside](http://www.last.fm/de/music/The+Ghost+Inside)
 * [The Intersphere](http://www.last.fm/de/music/The+Intersphere)
