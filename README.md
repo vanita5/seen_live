@@ -18,7 +18,7 @@
 * [Amon Amarth](http://www.last.fm/de/music/Amon+Amarth)
 * [Antilopen Gang](http://www.last.fm/de/music/Antilopen+Gang)
 * [Any Given Day](http://www.last.fm/de/music/Any+Given+Day)
-* [Architects](http://www.last.fm/de/music/Architects)
+* [Architects](http://www.last.fm/de/music/Architects) (x2)
 * [Atari Teenage Riot](http://www.last.fm/de/music/Atari+Teenage+Riot)
 * [August Burns Red](http://www.last.fm/de/music/August+Burns+Red)
 * [Author &amp; Punisher](http://www.last.fm/de/music/Author+&+Punisher)
@@ -33,6 +33,7 @@
 * [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
 * [Breaking Benjamin](http://www.last.fm/de/music/Breaking+Benjamin)
 * [Broken Compass](https://brokencompassband.bandcamp.com/)
+* [Bury Tomorrow](http://www.last.fm/de/music/Bury+Tomorrow)
 
 ###### C
 
@@ -130,7 +131,7 @@
 * [Sookee](http://www.last.fm/de/music/Sookee)
 * [Spaceman Spiff](http://www.last.fm/de/music/Spaceman+Spiff)
 * [Stereo Dynamite](http://www.last.fm/de/search?q=stereo+dynamite)
-* [Stick To Your Guns](http://www.last.fm/de/music/Stick+to+Your+Guns)
+* [Stick To Your Guns](http://www.last.fm/de/music/Stick+to+Your+Guns) (x2)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
 * [Swallow Your Pride](http://www.last.fm/de/music/Swallow+your+pride)
 
