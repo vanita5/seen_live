@@ -26,6 +26,7 @@
 
 ###### B
 
+* [Bei Bedarf](https://www.facebook.com/beibedarfmusik)
 * [Bilderbuch](http://www.last.fm/de/music/Bilderbuch)
 * [Billy Talent](http://www.last.fm/de/music/Billy+Talent)
 * [Black Space Riders](http://www.last.fm/de/music/Black+Space+Riders)
@@ -90,6 +91,7 @@
 
 * [Madball](http://www.last.fm/de/music/Madball)
 * [Major Lazer](http://www.last.fm/de/music/Major+Lazer)
+* [Malfunc Prism](https://soundcloud.com/malfunc-prism)
 * [Marathonmann](http://www.last.fm/de/music/Marathonmann)
 * [Modestep](http://www.last.fm/de/music/Modestep)
 * [Monika Kruse](http://www.last.fm/de/music/Monika+Kruse)
@@ -113,6 +115,7 @@
 * [Panic! At The Disco](http://www.last.fm/de/music/Panic!+at+the+Disco)
 * [Parkway Drive](http://www.last.fm/de/music/Parkway+Drive)
 * [Per Capita](http://www.last.fm/de/music/Per+Capita)
+* [Pommes oder Pizza](https://www.facebook.com/pommesoderpizza/)
 
 ###### R
 
