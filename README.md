@@ -137,6 +137,7 @@
 * [Stick To Your Guns](http://www.last.fm/de/music/Stick+to+Your+Guns) (x2)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
 * [Swallow Your Pride](http://www.last.fm/de/music/Swallow+your+pride)
+* [Swiss + Die Anderen](https://www.last.fm/de/music/Swiss+&+Die+Andern)
 
 ###### T
 
