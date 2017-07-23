@@ -27,6 +27,7 @@
 ###### B
 
 * [Bei Bedarf](https://www.facebook.com/beibedarfmusik)
+* [Being As An Ocean](https://www.last.fm/de/music/Being+As+An+Ocean)
 * [Bilderbuch](http://www.last.fm/de/music/Bilderbuch)
 * [Billy Talent](http://www.last.fm/de/music/Billy+Talent) (x2)
 * [Black Space Riders](http://www.last.fm/de/music/Black+Space+Riders)
@@ -41,6 +42,7 @@
 * [Callejon](http://www.last.fm/de/music/Callejon) (x2)
 * [Cancel The Sky](http://www.last.fm/music/Cancel+The+Sky)
 * [Capture the Crown](http://www.last.fm/de/music/Capture+the+Crown)
+* [Casey](https://www.last.fm/de/music/Casey)
 * [Chelsea Deadbeat Combo](http://www.last.fm/de/music/Chelsea+Deadbeat+Combo)
 * [Chris Liebing](http://www.last.fm/de/music/Chris+Liebing)
 * [Clawerfield](http://www.last.fm/de/music/Clawerfield)
@@ -94,6 +96,7 @@
 * [Major Lazer](http://www.last.fm/de/music/Major+Lazer)
 * [Malfunc Prism](https://soundcloud.com/malfunc-prism)
 * [Marathonmann](http://www.last.fm/de/music/Marathonmann)
+* [Miss May I](https://www.last.fm/de/music/Miss+May+I)
 * [Modestep](http://www.last.fm/de/music/Modestep)
 * [Monika Kruse](http://www.last.fm/de/music/Monika+Kruse)
 * [Monkey3](http://www.last.fm/de/music/Monkey3)
@@ -149,6 +152,7 @@
 * [The Ghost Inside](http://www.last.fm/de/music/The+Ghost+Inside)
 * [The Intersphere](http://www.last.fm/de/music/The+Intersphere)
 * [The Prodigy](http://www.last.fm/de/music/The+Prodigy)
+* [Thy Art Is Murder](https://www.last.fm/de/music/Thy+Art+Is+Murder)
 * [To the Rats and Wolves](http://www.last.fm/de/music/To+the+Rats+and+Wolves)
 * [Trailerpark](http://www.last.fm/de/music/Trailerpark)
 * [Truckfighters](http://www.last.fm/de/music/Truckfighters)
