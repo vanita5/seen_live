@@ -28,7 +28,7 @@
 
 * [Bei Bedarf](https://www.facebook.com/beibedarfmusik)
 * [Bilderbuch](http://www.last.fm/de/music/Bilderbuch)
-* [Billy Talent](http://www.last.fm/de/music/Billy+Talent)
+* [Billy Talent](http://www.last.fm/de/music/Billy+Talent) (x2)
 * [Black Space Riders](http://www.last.fm/de/music/Black+Space+Riders)
 * [Break Down A Venue](http://www.last.fm/de/music/Break+Down+A+Venue)
 * [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
@@ -157,6 +157,7 @@
 ###### V
 
 * [Vale Tudo](http://www.last.fm/de/music/Vale+Tudo)
+* [VAN HOLZEN](https://www.last.fm/de/music/VAN+HOLZEN)
 * [Vitja](http://www.last.fm/de/music/vitja)
 
 ###### W
