@@ -96,6 +96,7 @@
 * [Major Lazer](http://www.last.fm/de/music/Major+Lazer)
 * [Malfunc Prism](https://soundcloud.com/malfunc-prism)
 * [Marathonmann](http://www.last.fm/de/music/Marathonmann)
+* [Meatballz](https://www.facebook.com/meatballz.band/)
 * [Miss May I](https://www.last.fm/de/music/Miss+May+I)
 * [Modestep](http://www.last.fm/de/music/Modestep)
 * [Monika Kruse](http://www.last.fm/de/music/Monika+Kruse)
@@ -108,6 +109,7 @@
 
 * [Nasty](http://www.last.fm/de/music/Nasty)
 * [Netsky](http://www.last.fm/de/music/Netsky)
+* [Netzwerk](https://www.backstagepro.de/netzwerk)
 * [Nico Pusch](http://www.last.fm/de/music/Nico+Pusch)
 
 ###### O
