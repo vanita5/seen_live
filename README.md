@@ -34,7 +34,7 @@
 * [Break Down A Venue](http://www.last.fm/de/music/Break+Down+A+Venue)
 * [Breakdown of Sanity](http://www.last.fm/de/music/Breakdown+of+Sanity)
 * [Breaking Benjamin](http://www.last.fm/de/music/Breaking+Benjamin)
-* [Broken Compass](https://brokencompassband.bandcamp.com/)
+* [Broken Compass](https://brokencompassband.bandcamp.com/) (x2)
 * [Bury Tomorrow](http://www.last.fm/de/music/Bury+Tomorrow)
 
 ###### C
@@ -49,6 +49,7 @@
 
 ###### D
 
+* [Deathwood](https://deathwood.bandcamp.com/)
 * [Deez Nuts](http://www.last.fm/de/music/Deez+Nuts) (x2)
 * [Deftones](http://www.last.fm/de/music/Deftones)
 * [Desolace](http://www.last.fm/de/music/Desolace)
@@ -142,6 +143,7 @@
 * [Stereo Dynamite](http://www.last.fm/de/search?q=stereo+dynamite)
 * [Stick To Your Guns](http://www.last.fm/de/music/Stick+to+Your+Guns) (x2)
 * [Strained Nerve](http://www.last.fm/de/music/Strained+Nerve)
+* [SuicidiuS](https://www.facebook.com/Suicidius)
 * [Swallow Your Pride](http://www.last.fm/de/music/Swallow+your+pride)
 * [Swiss + Die Anderen](https://www.last.fm/de/music/Swiss+&+Die+Andern)
 
