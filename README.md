@@ -123,6 +123,7 @@
 * [Parkway Drive](http://www.last.fm/de/music/Parkway+Drive)
 * [Per Capita](http://www.last.fm/de/music/Per+Capita)
 * [Pommes oder Pizza](https://www.facebook.com/pommesoderpizza/)
+* [Pöbel MC](https://www.upstruct.org/poebel-mc)
 
 ###### R
 
@@ -171,6 +172,7 @@
 ###### W
 
 * [Wankelmut](http://www.last.fm/de/music/Wankelmut)
+* [Waving The Guns](http://wavingtheguns.blogsport.de/)
 * [We Came As Romans](http://www.last.fm/de/music/We+Came+As+Romans)
 * [While She Sleeps](http://www.last.fm/de/music/While+She+Sleeps) (x2)
 * [WOLF DOWN](http://www.last.fm/de/music/Wolf+Down)
