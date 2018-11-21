@@ -79,10 +79,12 @@
 
 * [In Flames](http://www.last.fm/de/music/In+Flames)
 * [Irie Révoltés](https://www.last.fm/de/music/Irie+R%C3%A9volt%C3%A9s)
+* [Iron Maiden](#)
 
 ###### K
 
 * [Karotte](http://www.last.fm/de/music/Karotte)
+* [Killswitch Engage]()
 * [Klangkarussell](http://www.last.fm/de/music/Klangkarussell)
 * [Konny](http://www.last.fm/de/music/Konny)
 
